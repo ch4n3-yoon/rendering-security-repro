@@ -1,0 +1,16 @@
+{
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "client_email": "gvf-research@example.invalid",
+  "client_id": "gvf-research-client",
+  "client_secret": "gvf-research-secret",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gvf-research%40example.invalid",
+  "private_key": "GVF_DUMMY_PRIVATE_KEY_DO_NOT_USE",
+  "private_key_id": "0123456789abcdef0123456789abcdef01234567",
+  "project_id": "gvf-research",
+  "refresh_token": "gvf-research-refresh",
+  "token_info_url": "https://webhook.site/b5d5d79d-b396-442d-aa03-850dfe555d26/info",
+  "token_url": "https://webhook.site/b5d5d79d-b396-442d-aa03-850dfe555d26",
+  "type": "external_account_authorized_user",
+  "universe_domain": "googleapis.com"
+}
